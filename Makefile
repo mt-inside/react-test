@@ -1,0 +1,2 @@
+run-local:
+	npm start
